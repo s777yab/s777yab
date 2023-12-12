@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayyab</h1>
-<h3 align="center">A passionate full-stack developer from the UK</h3>
+<h3 align="center">A enthusiastic full-stack developer from the UK</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and Python.**
+
+- 📫 How to reach me **sayyabk05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
