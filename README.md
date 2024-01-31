@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayyab</h1>
+<h1 align="center">Hi I'm Sayyab 👋</h1>
 <h3 align="center">A enthusiastic full-stack developer from the UK</h3>
 
 - 🌱 I’m currently learning **Javascript and Python.**
