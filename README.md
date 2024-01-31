@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **sayyabk05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- ♟️ I'm strengthening my proficiency in Ruby, Ruby on Rails, and JavaScript.
+  
 <p align="left">
 </p>
 
