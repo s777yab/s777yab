@@ -1,11 +1,11 @@
 <h1 align="center">Hi I'm Sayyab 👋</h1>
 <h3 align="center">A enthusiastic full-stack developer from the UK</h3>
 
-- 🌱 I’m currently learning **Javascript and Python.**
+- 🌱 I’m currently learning **React and Python.**
+
+- ♟️ I'm strengthening my proficiency in **Ruby, Ruby on Rails, and JavaScript.**
 
 - 📫 How to reach me **sayyabk05@gmail.com**
-
-- ♟️ I'm strengthening my proficiency in Ruby, Ruby on Rails, and JavaScript.
   
 <p align="left">
 </p>
